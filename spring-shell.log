@@ -1,0 +1,140 @@
+1559805402657:help
+1559805475765:parse
+1559805478524:-parse
+1559805518915:-parse --file /Users/ToxicDreamz/Documents/IntelliJ-IDEA Projects/Access Log Parser/src/main/resources/access.log --startdate 2017-01-01.13:00:00
+1559805545624:-parse --file=access.log
+1559805610740:-parse --file=access.log --startDate=2017-01-01. 13:00:00 --duration=hourly --treshold=250
+1559805635658:-parse --file=access.log --startDate=2017-01-01. 13:00:00 --duration=hourly --treshold=1--
+1559805639485:-parse --file=access.log --startDate=2017-01-01. 13:00:00 --duration=hourly --treshold=100
+1559805646801:stacktrace
+1559805670559:-parse --file access.log --startDate 2017-01-01 13:00:00 --duration hourly --treshold 250
+1559805680171:-parse --file=access.log --startDate=2017-01-01 13:00:00 --duration=hourly --treshold=100
+1559805687049:-parse --file=access.log --startDate=2017-01-01. 13:00:00 --duration=hourly
+1559805703859:stacktrace
+1559805728005:-parse --file=access.log --startDate=2017-01-01 13:00:00 --duration=hourly
+1559805780363:-parse --file=access.log --startDate=2017-01-01. 13:00:00 --duration=HOURLY
+1559805789076:-parse --file=access.log --startDate=2017-01-01. 13:00:00 --duration=1
+1559805814948:-parse --file=access.log --startDate=2017-01-01.13:00:00 --duration=hourly --treshold=250
+1559805851319:-parse --file=access.log --startDate=2017-01-01.13:00:00 --duration=hourly
+1559805855498:-parse --file=access.log --startDate=2017-01-01.13:00:00 --duration=hourly --treshold=250
+1559805866964:-parse --file=access.log --startDate=2017-01-01.13:00:00 --duration=hourly --treshold=100
+1559805916005:-parse --file=access.log --startDate=2017-01-01.13:00:00 --duration=hourly --treshold=250
+1559805977181:stacktrace
+1559805993895:-parse --file=access.log --startDate=2017-01-01.13:00:00 --duration=hourly --treshold=100
+1559805999332:-parse --file=access.log --startDate=2017-01-01.13:00:00 --duration=hourly --treshold 250
+1559806007142:-parse --file=access.log --startDate=2017-01-01.13:00:00 --duration=hourly --treshold=250
+1559806010309:stacktrace
+1559809465030:-parse --file=access.log --startDate=2017-01-01.13:00:00 --duration=hourly --treshold=250
+1559809493202:-parse --file access.log --startDate 2017-01-01.13:00:00 --duration hourly --treshold 250
+1559809652759:-parse --file=access.log --startDate=2017-01-01.13:00:00 --duration=hourly --treshold=250
+1559809660087:-parse --file=access.log --startDate=2017-01-01.13:00:00 --duration=hourly --treshold = 250
+1559809667765:-parse --file=access.log --startDate=2017-01-01.13:00:00 --duration=hourly --treshold= 250
+1559809687549:-parse --file= access.log --startDate= 2017-01-01.13:00:00 --duration= hourly --treshold= 250
+1559809751271:-parse file access.log startDate 2017-01-01.13:00:00 duration hourly treshold 250
+1559809753525:Too many arguments: the following could not be mapped to parameters: '--duration= hourly --treshold= 250'
+1559809755721:Details of the error have been omitted. You can use the stacktrace command to print the full stacktrace.Too many arguments: the following could not be mapped to parameters: '--duration= hourly --treshold= 250'
+1559809768758:Details of the error have been omitted. You can use the stacktrace command to print the full stacktrace.-parse --file= access.log
+1559809791652:-parse --file= access.log --startDate= 2017-01-01.13:00:00 --duration= hourly --treshold=
+1559809795117:-parse --file=access.log
+1559809832777:-parse --file=access.log --startDate=2017-01-01.13:00:00
+1559809839478:--startDate=2017-01-01.13:00:00
+1559809854398:-parse --file=access.log --startDate=2017-01-01.13:00:00 --duration=hourly
+1559809859497:-parse --file=access.log --startDate=2017-01-01.13:00:00
+1559809870186:-parse --file=access.log --startDate=2017-01-01.13:00:00 --duration=hourly --duration=100
+1559809904514:-parse --file=access.log --startDate=2017-01-01.13:00:00 --duration=hourly --threshold=100
+1559809915777:-parse --file=access.log --startDate=2017-01-01.13:00:00 --duration=hourly
+1559809922020:-parse --file=access.log --startDate=2017-01-01.13:00:00 --duration=hourly --threshold 100
+1559809961161:-parse --file access.log --startDate 2017-01-01.13:00:00 --duration hourly
+1559809974216:-parse --file access.log --startDate 2017-01-01.13:00:00 --duration hourly --threshold 100
+1559810292825:-parse --file access.log --startDate 2017-01-01.13:00:00 --duration hourly
+1559810309307:-parse --file access.log --startDate 2017-01-01 13:00:00 --duration hourly
+1559810315483:-parse --file access.log --startDate=2017-01-01.13:00:00 --duration hourly
+1559810318212:-parse --file access.log --startDate 2017-01-01.13:00:00 --duration hourly
+1559810340634:-parse
+1559810399246:-parse --file access.log --startDate 2017-01-01.13:00:00 --duration hourly
+1559810415287:-parse --file access.log --startDate 2017-01-01 13:00:00 --duration hourly -
+1559810427733:-parse --file access.log --startDate 2017-01-01.13:00:00 --duration hourly --threshold 100
+1559810447520:-parse --file access.log
+1559810491341:-parse --file access.log --start-date 2017-01-01.13:00:00 --duration hourly --threshold 100
+1559810531323:stacktrace
+1559810770017:-parse --file access.log --start-date 2017-01-01.13:00:00 --duration hourly --threshold 100
+1559811056215:-parse --file /Users/ToxicDreamz/Documents/IntelliJ-IDEA Projects/Access Log Parser/src/main/resources/access.log --start-date 2017-01-01.13:00:00 --duration hourly --threshold 100
+1559816343046:resources/access.log
+1559816381618:-parse --file resources/access.log --start-date 2017.01.01.13:00:00 --duration hourly --threshold 100
+1559816444671:-parse --file resources/access.log --start-date 2017-01-01.13:00:00 --duration hourly --threshold 100
+1559816549533:-parse --file Documents/IntelliJ-IDEA Projects/Access Log Parser/src/main/resources/access.log
+1559816569579:/Users/ToxicDreamz/Documents/IntelliJ-IDEA Projects/Access Log Parser/src/main/resources/access.log
+1559816611525:-parse --file /Documents/IntelliJ-IDEA Projects/Access Log Parser/src/main/resources/access.log --start-date 2017-01-01.13:00:00 --duration hourly --threshold 100
+1559816716632:-parse --file /Documents/IntelliJ-IDEA\\ Projects/Access
+1559816759421:-parse --file /Documents/IntelliJ-IDEA\\ Projects/Access\\ Log\\ Parser/src/main/resources/access.log --start-date 2017-01-01.13:00:00 --duration hourly --threshold 100
+1559816835452:-parse --file Desktop/Java_MySQL_Test/access.log --start-date 2017-01-01.13:00:00 --duration hourly --threshold 100
+1559816966360:-parse --file Users/ToxicDreamz/Documents/IntelliJ-IDEA\\ Projects/Access\\ Log\\ Parser/src/main/resources/access.log --start-date 2017-01-01.13:00:00 --duration hourly --threshold 100
+1559817035298:-parse --file /Documents/IntelliJ-IDEA\\ Projects/Access\\ Log\\ Parser/src/main/resources/access.log --start-date 2017-01-01.13:00:00 --duration hourly --threshold 100
+1559817071652:/Documents/IntelliJ-IDEA\\ Projects/Access\\ Log\\ Parser/src/main/resources/access.log --start-date 2017-01-01.13:00:00 --duration hourly --threshold 100
+1559817085338:-parse --file /Documents/IntelliJ-IDEA\\ Projects/Access\\ Log\\ Parser/src/main/resources/access.log --start-date 2017-01-01.13:00:00 --duration hourly --threshold 100
+1559817213021:-parse --file ToxicDreamz$ /Users/ToxicDreamz/Desktop/Java_MySQL_Test/access.log
+1559817245204:-parse --file /Users/ToxicDreamz/Desktop/Java_MySQL_Test/access.log --start-date 2017-01-01.13:00:00 --duration hourly --threshold 100
+1559832764866:/Users/ToxicDreamz/Desktop/Java_MySQL_Test/access.log
+1559832818210:-parse --file /Users/ToxicDreamz/Desktop/Java_MySQL_Test/access.log --startdate 2017-01-01.
+1559832850406:-parse --file /Users/ToxicDreamz/Desktop/Java_MySQL_Test/access.log --startdate 2017-01-01.13:00:00 --duration hourly --threshold 500
+1559832886543:-parse --file /Users/ToxicDreamz/Desktop/Java_MySQL_Test/access.log --startdate 2017-01-01.13:00:00
+1559832906780:-parse --file /Users/ToxicDreamz/Desktop/Java_MySQL_Test/access.log --startdate 2017-01-01.13:00:00 --duration hourly --threshold 100
+1559832930013:-parse --file /Users/ToxicDreamz/Desktop/Java_MySQL_Test/access.log --startdate 2017-01-01 13:00:00 --duration hourly --threshold 100
+1559832963451:-parse --file /Users/ToxicDreamz/Desktop/Java_MySQL_Test/access.log --startdate 2017-01-01.13:00:00 --duration hourly --threshold 100
+1559832974969:-parse --file /Users/ToxicDreamz/Desktop/Java_MySQL_Test/access.log --startdate 2017-01-01.13:00 --duration hourly --threshold 100
+1559833007290:-parse --file /Users/ToxicDreamz/Desktop/Java_MySQL_Test/access.log --start-date 2017-01-01.13:00:00 --duration hourly --threshold 100
+1559833256954:-parse --file /Users/ToxicDreamz/Documents/IntelliJ-IDEA Projects/Access Log Parser/src/main/resources/access.log
+1559833297330:-parse --file /Users/ToxicDreamz/Desktop/Java_MySQL_Test/access.log --start-date 2017-01-01.13:00:00 --duration daily --threshold 100
+1559833811568:-parse --file /Users/ToxicDreamz/Desktop/Java_MySQL_Test/access.log --start-date 2017-01-01.13:00:00 --duration daily --threshold 500
+1559834226240:-parse --file /Users/ToxicDreamz/Desktop/Java_MySQL_Test/access.log --start-date 2017-01-01.13:00:00 --duration daily --threshold 100
+1559834990679:stacktrace
+1559835027540:-parse --file /Users/ToxicDreamz/Desktop/Java_MySQL_Test/access.log --start-date 2017-01-01.13:00:00 --duration daily --threshold 100
+1559835040170:stacktrace
+1559835093834:-parse --file /Users/ToxicDreamz/Desktop/Java_MySQL_Test/access.log --start-date 2017-01-01.13:00:00 --duration daily --threshold 100
+1559836329731:stacktrace
+1559836471015:-parse --file /Users/ToxicDreamz/Desktop/Java_MySQL_Test/access.log --start-date 2017-01-01.13:00:00 --duration hourly --threshold 10
+1559837507705:-parse --file /Users/ToxicDreamz/Desktop/Java_MySQL_Test/access.log --start-date 2017-01-01.13:00:00 --duration daily --threshold 10
+1559837605906:-rs -ie/sr/oxDrazDstpJv_SLTstacsslg-satdt 01-1-11:0:0-drto aiy-thsod1
+1559837614198:pas -ie/sr/Txcem/estpJv_yQ_e/ces.og-tatdt 07010.30:0-uaindiy -hehod1
+1559837623932:prs -ie UesToiDem/estp/aaMyQ_etaceslo strdae21-10.10:0 -drto al-trhod1
+1559837664315:-parse --file /Users/ToxicDreamz/Desktop/Java_MySQL_Test/access.log --start-date 2017-01-01.13:00:00 --duration daily --threshold 10
+1559838017760:SELECT ip FROM logs log WHERE log.date BETWEEN :startDate AND :endDate GROUP BY log.id, log.ip HAVING COUNT(log.ip) >= :threshold
+1559838062667:-parse --file /Users/ToxicDreamz/Desktop/Java_MySQL_Test/access.log --start-date 2017-01-01.13:00:00 --duration daily --threshold 10
+1559838076256:stacktrace
+1559838259340:-parse --file /Users/ToxicDreamz/Desktop/Java_MySQL_Test/access.log --start-date 2017-01-01.13:00:00 --duration daily --threshold 10
+1559838465054:Expression #1 of SELECT list is not in GROUP BY clause and contains nonaggregated column 'access_logs.logs.id' which is not functionally dependent on columns in GROUP BY clause
+1559838471804:-parse --file /Users/ToxicDreamz/Desktop/Java_MySQL_Test/access.log --start-date 2017-01-01.13:00:00 --duration daily --threshold 10
+1559839436953:stacktrace
+1559840012940:-parse --file /Users/ToxicDreamz/Desktop/Java_MySQL_Test/access.log --start-date 2017-01-01.13:00:00 --duration hourly --threshold 10
+1559840103045:stacktrace
+1559840215888:-parse --file /Users/ToxicDreamz/Desktop/Java_MySQL_Test/access.log --start-date 2017-01-01.13:00:00 --duration hourly --threshold 10
+1559887618201:stacktrace
+1559888744722:-parse --file /Users/ToxicDreamz/Desktop/Java_MySQL_Test/access.log --start-date 2017-01-01.13:00:00 --duration hourly --threshold 10
+1559889275871:Parameter value [10] did not match expected type [java.lang.Long (n/a)]
+1559889396369:-parse --file /Users/ToxicDreamz/Desktop/Java_MySQL_Test/access.log --start-date 2017-01-01.13:00:00 --duration daily --threshold 10
+1559889405303:stacktrace
+1559889621830:-parse --file /Users/ToxicDreamz/Desktop/Java_MySQL_Test/access.log --start-date 2017-01-01.13:00:00 --duration daily --threshold 10
+1559889635240:stacktrace
+1559889648301:-parse --file /Users/ToxicDreamz/Desktop/Java_MySQL_Test/access.log --start-date 2017-01-01.13:00:00 --duration daily --threshold 10
+1559891141188:stacktrace
+1559891179049:-parse --file /Users/ToxicDreamz/Desktop/Java_MySQL_Test/access.log --start-date 2017-01-01.13:00:00 --duration daily --threshold 10
+1559891486202:-parse --file /Users/ToxicDreamz/Desktop/Java_MySQL_Test/access.log --start-date 2017-01-01.13:00:00 --duration daily --threshold 100
+1559891819266:-parse --file /Users/ToxicDreamz/Desktop/Java_MySQL_Test/access.log --start-date 2017-01-01.13:00:00 --duration daily --threshold 10
+1559897860141:-findblocked --start-date 2017-01-01.13:00:00 --duration hourly --threshold 100
+1559898410816:-findblocked --start-date 2017-01-01.13:00:00 --duration daily --threshold 100
+1559898849445:-findblocked --start-date 2017-01-01.13:00:00 --duration hourly --threshold 100
+1559901108771:public static final String ANSI_BLACK_BACKGROUND = "\\u001B[40m";
+1559901108802:public static final String ANSI_RED_BACKGROUND = "\\u001B[41m";
+1559901108811:public static final String ANSI_GREEN_BACKGROUND = "\\u001B[42m";
+1559901108823:public static final String ANSI_YELLOW_BACKGROUND = "\\u001B[43m";
+1559901108830:public static final String ANSI_BLUE_BACKGROUND = "\\u001B[44m";
+1559901108840:public static final String ANSI_PURPLE_BACKGROUND = "\\u001B[45m";
+1559901108849:public static final String ANSI_CYAN_BACKGROUND = "\\u001B[46m";
+1559901134277:public static final String ANSI_WHITE_BACKGROUND = "\\u001B[47m";-findblocked --start-date 2017-01-01.13:00:00 --duration hourly --threshold 100
+1559901147654:-findblocked --start-date 2017-01-01.13:00:00 --duration hourly --threshold 100
+1559908419859:-findblocked --start-date 2017-01-01 --duration daily --threshold 10
+1559908441233:-findblocked --start-date 2017-01-01.13:00:00 --duration daily --threshold 10
+1559908995078:help
+1559909349982:-load --file /Users/ToxicDreamz/Desktop/Java_MySQL_Test/access.log
+1559910701427:-lr --file /Users/ToxicDreamz/Desktop/Java_MySQL_Test/access.log --start-date 2017-01-01.13:00:00 --duration hourly --threshold 100
+1559935918016:-findblocked --start-date 2017-01-01.13:00:00 --duration hourly --threshold 100
